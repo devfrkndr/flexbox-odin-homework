@@ -198,6 +198,10 @@ li {
   font-weight: 700;
 }
 
+footer {
+  background-color: #1f2937;
+}
+
 .footer .container {
   display: flex;
   justify-content: center;
